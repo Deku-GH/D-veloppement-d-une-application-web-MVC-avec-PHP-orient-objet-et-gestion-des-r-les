@@ -100,7 +100,7 @@
 
             <div class="text-center mt-4">
               <span class="text-muted">Already have an account?</span>
-              <a href="#" class="fw-semibold text-decoration-none">Login</a>
+              <a href="/login" class="fw-semibold text-decoration-none">Login</a>
             </div>
 
           </div>

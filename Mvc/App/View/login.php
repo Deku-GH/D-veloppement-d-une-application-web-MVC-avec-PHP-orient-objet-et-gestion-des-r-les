@@ -1,4 +1,9 @@
+<?php 
+session_start();
 
+$_SESSION['is_logged_in'] = true;
+
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -61,7 +66,10 @@
 
           <div class="text-center mt-4">
             <span class="text-muted">Don’t have an account?</span>
-            <a href="#" class="fw-semibold text-decoration-none">Sign up</a>
+            <a href="/regester
+            
+            
+            " class="fw-semibold text-decoration-none">Sign up</a>
           </div>
 
         </div>
