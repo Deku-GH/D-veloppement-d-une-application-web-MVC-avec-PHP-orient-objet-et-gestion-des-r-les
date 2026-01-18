@@ -1,0 +1,15 @@
+{
+    "name": "youcode/projet-mvc",
+    "autoload": {
+        "psr-4": {
+            "Youcode\\ProjetMvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mouad",
+            "email": "mouadzed1@gmail.com"
+        }
+    ],
+    "require": {}
+}
